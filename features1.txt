@@ -1,7 +1,3 @@
 ini Feature 1
 
-<<<<<<< HEAD
-perubahan kedua
-=======
 perubahan kedua dari features 2
->>>>>>> features2
